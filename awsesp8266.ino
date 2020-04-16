@@ -7,6 +7,7 @@
  * and upload your spiffs (data) folder using the following terminal command:
  *
  * platformio run --target uploadfs
+ updated Jigar Borad
  */
 
 #include <Arduino.h>
